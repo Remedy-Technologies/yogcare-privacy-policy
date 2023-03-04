@@ -14,7 +14,7 @@ tracker for maintaining your habit, meditation and many more.
 Team Remedy was formed by four engineering students from Kolkata, India.
 
 ### Know more about us: 
-https://1drv.ms/p/s!An8iY-9yW-iGjXISFj6GeXfEuxOr?e=sGfjyy&nav=eyJzSWQiOjI1Nn0
+https://1drv.ms/b/s!An8iY-9yW-iGjW2Tpuitc3qe2D0a?e=RtJRkT
 
 ### Contact Us
 Email: priyanshudutta13@gmail.com

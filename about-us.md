@@ -1,7 +1,7 @@
 About Us  
 ----------------
 
-### What is Yogacare?
+### What is Yogcare?
 • Yogcare in simple terms, is an application where you can will be able
 to get yoga and asanas specially personalized for you based on a
 Physical Activity Readiness(PAR) Test in an organized manner.<br/>

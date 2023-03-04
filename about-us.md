@@ -11,7 +11,10 @@ asanas.<br/>
 tracker for maintaining your habit, meditation and many more.
 
 ### Team Remedy  
-Team Remedy was formed by four engineering students from Kolkata, India. 
+Team Remedy was formed by four engineering students from Kolkata, India.
+
+### Know more about us: 
+https://1drv.ms/p/s!An8iY-9yW-iGjXISFj6GeXfEuxOr?e=sGfjyy&nav=eyJzSWQiOjI1Nn0
 
 ### Contact Us
 Email: priyanshudutta13@gmail.com

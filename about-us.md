@@ -20,5 +20,6 @@ https://1drv.ms/b/s!An8iY-9yW-iGjW2Tpuitc3qe2D0a?e=RtJRkT
 
 
 ### Contact Us
-Email: Priyanshu Dutta: priyanshudutta13@gmail.com
-       Subhradeep Bera: beradeep35@gmail.com
+Email: 
+Priyanshu Dutta: priyanshudutta13@gmail.com
+Subhradeep Bera: beradeep35@gmail.com

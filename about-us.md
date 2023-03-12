@@ -16,6 +16,9 @@ Team Remedy was formed by four engineering students from Kolkata, India.
 ### Know more about us: 
 https://1drv.ms/b/s!An8iY-9yW-iGjW2Tpuitc3qe2D0a?e=RtJRkT
 
+![our team edit](https://user-images.githubusercontent.com/61914329/224529482-96ffa4f4-fac9-4a49-afd2-85adeb110abd.png)
+
+
 ### Contact Us
-Email: priyanshudutta13@gmail.com
-       beradeep35@gmail.com
+Email: Priyanshu Dutta: priyanshudutta13@gmail.com
+       Subhradeep Bera: beradeep35@gmail.com
